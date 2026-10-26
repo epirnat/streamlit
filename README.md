@@ -4,10 +4,7 @@
 
 > All data is **synthetic** (fictional company "Kelvara Components", a B2B HVAC parts maker). No real customer data is used.
 
-**Live demo:** _add your Streamlit Community Cloud link here_
-
-<!-- Add 2-3 screenshots: docs/overview.png, docs/opportunities.png, docs/triage.png -->
-<!-- ![Overview](docs/overview.png) -->
+**Live demo:** https://support-ticket-copilot.streamlit.app/
 
 ---
 
